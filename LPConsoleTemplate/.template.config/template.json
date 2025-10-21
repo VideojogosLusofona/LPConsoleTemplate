@@ -2,13 +2,13 @@
     "$schema": "http://json.schemastore.org/template",
     "author": "Nuno Fachada",
     "classifications": ["Console"],
-    "identity": "VideojogosLusofona.LP1ConsoleTemplate",
-    "name": "LP1 Console App",
-    "shortName": "lp1console",
+    "identity": "VideojogosLusofona.LPConsoleTemplate",
+    "name": "LP Console App",
+    "shortName": "lpconsole",
     "tags": {
       "language": "C#",
       "type": "project"
     },
-    "sourceName": "LP1ConsoleTemplate",
+    "sourceName": "LPConsoleTemplate",
     "preferNameDirectory": true
   }

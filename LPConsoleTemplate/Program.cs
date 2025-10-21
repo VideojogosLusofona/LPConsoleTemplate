@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LP1ConsoleTemplate
+namespace LPConsoleTemplate
 {
     public class Program
     {
