@@ -2,8 +2,8 @@
 
 ## Summary
 
-Template for .NET 8.0 console projects with the following characteristics for
-compatibility with Unity 6000.0 LTS:
+Template for .NET 10.0 console projects with the following characteristics for
+compatibility with Unity 6.3 LTS:
 
 - Contains `Program` class with `Main()` method.
 - No reference nullables.
@@ -25,6 +25,19 @@ After the template is installed, new console projects can be created as follows:
 ```bash
 dotnet new lpconsole --name MyProject
 ```
+
+## Other useful commands
+
+* Uninstall an old version of this template:
+    ```bash
+    $ dotnet uninstall /full/path/to/the/old/template
+    ```
+* How to find what `/full/path/to/the/old/template` should actually be?
+  ```bash
+  $ dotnet uninstall
+  ```
+  (this lists all templates you have installed and can uninstall)
+
 
 ## Metadata
 
